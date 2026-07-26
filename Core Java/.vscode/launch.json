@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BigIntegerTest",
+            "request": "launch",
+            "mainClass": "BigIntegerTest",
+            "projectName": "Core Java_b3e01f11"
+        },
+        {
+            "type": "java",
+            "name": "FirstSample",
+            "request": "launch",
+            "mainClass": "FirstSample",
+            "projectName": "Core Java_b3e01f11"
+        },
+        {
+            "type": "java",
             "name": "FXImageViewer",
             "request": "launch",
             "mainClass": "ImageViewer",
